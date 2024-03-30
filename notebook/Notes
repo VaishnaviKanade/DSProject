@@ -1,0 +1,10 @@
+1) KDE:
+ A kernel density estimate (KDE) plot is a method for visualizing the distribution of observations in a dataset, analogous to a histogram.
+
+2)Lasso:
+Inseted of sum squares , the absolute value of the slope added as a penalty norm.
+Penalizing means that we add a penalty for over-confidence in the parameter values. 
+Lasso regression is a regularization technique. It is used over regression methods for a more accurate prediction. This model uses shrinkage. Shrinkage is where data values are shrunk towards a central point as the mean. The lasso procedure encourages simple, sparse models (i.e. models with fewer parameters).
+
+3)EDA : 
+Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods.
