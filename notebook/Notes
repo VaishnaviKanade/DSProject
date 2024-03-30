@@ -8,3 +8,6 @@ Lasso regression is a regularization technique. It is used over regression metho
 
 3)EDA : 
 Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods.
+
+4) What Is Ridge Regression? 
+Ridge regression—also known as L2 regularization—is one of several types of regularization for linear regression models. Regularization is a statistical method to reduce errors caused by overfitting on training data. Ridge regression specifically corrects for multicollinearity in regression analysis.
